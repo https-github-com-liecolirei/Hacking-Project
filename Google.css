@@ -1,0 +1,87 @@
+.body {
+	background-color: white;
+}
+
+#all
+{
+	display: flex;
+	justify-content: center;
+	flex-flow: column wrap;
+	align-content: center;
+}
+
+.GICA {
+	text-align: right;
+	color: #BCBCBC;
+}
+
+.GF {
+	color: white;
+}
+
+#Recherches {
+	display: flex;
+	flex-flow: row nowrap;
+	align-content: center;
+	text-align: center;
+	width: 400px;
+	justify-content: center;
+}
+
+#ghost {
+	display: flex;
+	width: 40px;
+}
+
+#GasterVoid {
+	display: flex;
+	width: 60px;
+}
+
+.ShutUp {
+	color: white;
+}
+
+.barrederecherche {
+	text-align: center;
+	border-radius: 20px / 10px;
+	border-color: grey;
+	box-shadow: 3px 3px 2px grey;
+}
+
+.langue {
+	text-align: center;
+	font-size: 0.8em;
+}
+
+#Basdepage {
+	display: flex;
+	align-items: flex-start;
+	flex-direction: column;
+	line-height: 0.8em;
+	color: #272822;
+}
+
+#Gris1 {
+	display: flex;
+	justify-content: flex-start;
+	background-color: #E0E0E0;
+	width: 1526px;
+}
+
+#Gris2 {
+	display: flex;
+	align-items: flex-end;
+	flex-direction: row;
+	justify-content: space-between;
+	width: 1526px;
+	background-color: #E0E0E0;
+}
+
+.PC {
+	color: white;
+}
+
+.Fr {
+	color: blue;
+}
